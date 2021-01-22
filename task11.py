@@ -1,0 +1,12 @@
+a=1
+print(a)
+print(type(a))
+b=1.1
+print(b)
+print(type(b))
+c="one"
+print(c)
+print(type(c))
+d=True
+print(d)
+print(type(d))
